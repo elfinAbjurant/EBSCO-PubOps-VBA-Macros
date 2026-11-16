@@ -22,7 +22,7 @@ The two `PAC_` macros are designed to be used in order:
 2. Populate the publisher reference table as needed, then run `PAC_VLOOKUP`.
 3. Review the results and run `STATUS_Cleanup` if its status rules apply.
 
-The macros depend on a particular workbook layout, including worksheet names, table names, column positions, and headers such as `PUBL PRODUCT CODE`, `Journal Code`, `SPID NAME`, and `STATUS`. `purge_dates` and `purge_packages` operate on whichever worksheet is active, so confirm the active sheet and the relevant columns before running them.
+The macros depend on a particular workbook layout based on spreadsheets we received from the publisher when this workflow was current, including worksheet names, table names, column positions, and headers such as `PUBL PRODUCT CODE`, `Journal Code`, `SPID NAME`, and `STATUS`. `purge_dates` and `purge_packages` operate on whichever worksheet is active, so confirm the active sheet and the relevant columns before running them.
 
 ## Requirements
 
