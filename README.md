@@ -1,8 +1,8 @@
 # EBSCO PubOps VBA Macros
 
-A small collection of Excel VBA tools created to reduce repetitive work in an academic journal package quality-control workflow. The macros illustrate practical spreadsheet automation: preparing structured workbooks, reconciling publisher and product-code data, and moving or removing rows according to review rules.
+This is a small collection of Excel VBA tools created to reduce repetitive work in an academic journal subscription package quality-control workflow. I made these when I was working on a project to verify subscription data for a large number of [Sage](https://www.sagepub.com/) subscription packages for EBSCO customers.
 
-This repository is a personal portfolio of work from a former role. It is not affiliated with or endorsed by EBSCO Information Services, and it is not maintained as a supported product. The examples reflect a specific historical workflow and should not be assumed to match current systems or procedures. No customer data or sample workbooks are included.
+This repository is a personal portfolio of work from a former role. It is not affiliated with or endorsed by EBSCO Information Services, and it is not maintained as a supported product. The examples reflect a specific historical workflow and should not be assumed to match current systems or procedures. No customer data or sample workbooks are included. EBSCO's internal workflow almost certainly differs now. I was not operating in a capacity as a programmer at the time of employment, and I made these during my personal time.
 
 ## Macros
 
